@@ -1,2 +1,2 @@
-# Cat_v_-Dog_Image_Classification
+# Cat_vs_Dog_Image_Classification
 Convolutional Neural Network Model
